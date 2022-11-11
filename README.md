@@ -30,5 +30,5 @@ URL はこんなかんじ
 export GITHUB_CLIENT_ID=
 export GITHUB_CLIENT_SECRET=
 export PORT=8000
-export CALLBACK_URL="https://${CODESPACE_NAME}-${PORT}.preview.app.github.dev/"
+export CALLBACK_URL="https://${CODESPACE_NAME}-${PORT}.${GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}/"
 ```
