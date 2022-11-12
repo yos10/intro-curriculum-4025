@@ -15,13 +15,13 @@
 
 1. `.devcontainer/` 以下の `docker-compose.yml` は不要なので削除
 
-1. `devcontainer.json` を変更 f9bcf1e
+1. `devcontainer.json` を[変更](https://github.com/yos10/intro-curriculum-4025/commit/f9bcf1e400913b37be6a2d4ae967f44158340a31)
 
 ### Codespaces 用に Dockerfile と docker-compose.yml を変更
 
-Dockerfile f9bcf1e
+Dockerfile [f9bcf1e](https://github.com/yos10/intro-curriculum-4025/commit/f9bcf1e400913b37be6a2d4ae967f44158340a31)
 
-docker-compose.yml b4dda67
+docker-compose.yml [b4dda67](https://github.com/yos10/intro-curriculum-4025/commit/b4dda67c7a150c68a473307f819eafbbd01b90bb)
 
 ### Codespaces で環境変数の設定
 
