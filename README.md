@@ -32,6 +32,8 @@ https://docs.github.com/ja/codespaces/managing-your-codespaces/managing-encrypte
 
 #### 環境変数を設定してみた
 
+Codespaces のシークレットは `GITHUB` からはじまる名前は設定できないので別の方法を試してみた。
+
 ターミナルに `printenv` と入力すると一覧を表示
 
 URL はこんなかんじ  
